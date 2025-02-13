@@ -1,4 +1,4 @@
-# youtube-analysis-project
+# Youtube-Analysis-Project
 # Data Engineering YouTube Analysis Project
 
 ## Overview
